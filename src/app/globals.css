@@ -3,6 +3,7 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --primary: #6C63FF;
 
   --font-title: var(--font-kanit);
 }
